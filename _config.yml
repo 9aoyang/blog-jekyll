@@ -56,7 +56,8 @@ ga_domain: 9aoyang.cn
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "不为无益之事，何以悦有涯之生"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/hazygirl.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar1: /img/Kristina Pimenova.png
 
 
 
