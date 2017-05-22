@@ -76,7 +76,6 @@ layout: default
                 <!-- Featured Tags -->
                 {% if site.featured-tags %}
                 <section>
-                    <hr class="hidden-sm hidden-xs">
                     <h5><a href="/tags/">FEATURED TAGS</a></h5>
                     <div class="tags">
         				{% for tag in site.tags %}
@@ -90,13 +89,13 @@ layout: default
                 </section>
                 {% endif %}
 
-                <!-- Friends Blog -->
-                {% if site.friends %}
+                <!-- BLOGROLL -->
+                {% if site.blogroll %}
                 <hr>
-                <h5>FRIENDS</h5>
+                <h5>BLOGROLL</h5>
                 <ul class="list-inline">
-                    {% for friend in site.friends %}
-                        <li><a href="{{friend.href}}">{{friend.title}}</a></li>
+                    {% for blogroll in site.blogroll %}
+                        <li><a href="{{blogroll.href}}">{{blogroll.title}}</a></li>
                     {% endfor %}
                 </ul>
                 {% endif %}
