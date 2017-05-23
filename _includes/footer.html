@@ -15,7 +15,7 @@
                     </li>
                     {% endif %}
 
-                    <!-- add Zhihu, Github, JianShu, add target = "_blank" to <a> -->
+                    <!-- add Zhihu, Github, add target = "_blank" to <a> -->
                     {% if site.zhihu_username %}
                     <li>
                         <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
@@ -37,7 +37,7 @@
                         </a>
                     </li>
                     {% endif %}
-                   
+
                 </ul>
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
