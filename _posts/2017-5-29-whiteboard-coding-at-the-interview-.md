@@ -10,6 +10,10 @@ tags:
     - 算法
 ---
 
+> PREP is a mnemonic I created to help you remember the steps involved in solving whiteboard coding problems. It stands for Parameters, Return, Example, Pseudocode
+
+<p style="text-align: right">——Andy Tiffany</p>
+
 
 
 
