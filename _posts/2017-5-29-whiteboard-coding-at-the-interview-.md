@@ -14,6 +14,8 @@ tags:
 
 <p style="text-align: right">——Andy Tiffany</p>
 
+<img src="/img/in-post/whiteboard-coding/PREP-diagram.png" alt="PREP diagram" title="PREP图解">
+
 
 
 
