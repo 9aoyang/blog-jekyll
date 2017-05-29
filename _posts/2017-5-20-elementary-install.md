@@ -28,6 +28,6 @@ tags:
 wget http://linux-1251056822.costj.myqcloud.com/elementary_config 
 && bash elementary_config
 ```
-![elementary OS 0.4快速配置工具](/img/in-post/configurationtool.png)
+![elementary OS 0.4快速配置工具](/img/in-post/elementary-install/configurationtool.png)
 
 　这里面包括系统软硬件环境配置，网易云音乐，搜狗输入法，常用的办公软件，系统主题，甚至还有翻墙工具等Linux系统下的热门软件，可以根据需求自行选择安装。有了这些，基本就能完成你之前在Win系统下90%的工作了。解决了这些后顾之忧，再慢慢去深入学习Linux，岂不是一举两得？
