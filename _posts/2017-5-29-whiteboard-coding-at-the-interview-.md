@@ -5,6 +5,7 @@ subtitle:   "一个能给面试官留下绝佳印象的解决方案"
 date:       2017-05-29 16:00:00 
 author:     "9aoyang"
 header-img: "img/whiteboard-coding.jpg"
+catalog: true
 tags:
     - 面试 
     - 算法
