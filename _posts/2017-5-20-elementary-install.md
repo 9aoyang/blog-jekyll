@@ -5,7 +5,6 @@ subtitle:   " elementary OS快速配置指南 "
 date:       2017-05-20 05:20:20 
 author:     "9aoyang"
 header-img: "img/eos_desktop.png"
-catalog: true
 tags:
     - Linux 
     - Ubuntu
