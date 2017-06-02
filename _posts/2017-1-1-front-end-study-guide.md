@@ -93,7 +93,7 @@ js仅仅掌握的情况下,如何提升?
 
 高效读书?
 
-<img src="../img/in-post/front-end-study-guide/how-to-read-a-book.jpg" alt="How to read a book" title="How to read a book ?">
+<img src="/img/in-post/front-end-study-guide/how-to-read-a-book.jpg" alt="How to read a book" title="How to read a book ?">
 
 
 
