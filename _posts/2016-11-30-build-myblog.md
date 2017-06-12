@@ -1,11 +1,12 @@
 ---
 layout:     post
-title:      "我的前端学习指南"
-subtitle:   "他山之石,可以攻玉"
-date:       2017-01-01 00:00:00 
+title:      "Github Page + Jekyll 搭建个人博客"
+subtitle:   "托管在Github服务器上的博客"
+date:       2017-11-30 00:00:00 
 author:     "9aoyang"
-header-img: "img/your-name.jpg"
+header-img: "img/"
 catalog: true
 tags:
-    - 前端
+    - 博客 
+    - Github
 ---
