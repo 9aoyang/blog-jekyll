@@ -69,3 +69,32 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 当出现上图所示时说明已经成功创建了。
 
 4. 登录Github
+
+## 配置Jekyll环境
+
+1. 安装ruby
+
+```
+sudo apt install ruby
+```
+
+2. 安装jekyll
+
+```
+sudo apt install jekyll
+```
+
+## 快速获取一个简单模板
+
+```
+~ $ jekyll new myblog
+~ $ cd myblog
+~/myblog $ jekyll serve
+# => Now browse to http://localhost:4000
+```
+如果你希望把 jekyll 安装到当前目录，你可以运行 `jekyll new` . 来代替。如果当前目录非空，你还需要增添 `--force` 参数，所以命令应为 `jekyll new . --force`。
+
+就是这么简单。从现在开始，你可以通过创建文章、改变头信息来控制模板和输出、修改 Jekyll 设置来使你的站点变得更有趣～更多内容请参见[Jekyll中文指南](http://jekyllcn.com/docs/home/)
+
+
+##
