@@ -93,7 +93,7 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 ```
 $ ssh-keygen -t rsa -C "youremail@example.com"    #一路回车即可，不要瞎搞事。
 ```
-<img src="../img/in-post/bulid-myblog/SSH_Key.png" alt="SSH Key" title="SSH Key">
+<img src="/img/in-post/bulid-myblog/SSH_Key.png" alt="SSH Key" title="SSH Key">
 
 如果一切顺利的话，会出现上图中的内容。之后可以在用户主目录里找到`.ssh`目录（隐藏目录），里面有`id_rsa`和`id_rsa.pub`两个文件，这两个就是SSH Key的秘钥对，`id_rsa`是私钥，不能泄露出去，`id_rsa.pub`是公钥，可以放心地告诉任何人。
 
@@ -101,11 +101,11 @@ $ ssh-keygen -t rsa -C "youremail@example.com"    #一路回车即可，不要�
 
 然后，点“SSH Key”，填上任意Title，在Key文本框里粘贴`id_rsa.pub`文件的内容：
 
-<img src="../img/in-post/bulid-myblog/ssh-key.png" alt="add ssh key" title="">
+<img src="/img/in-post/bulid-myblog/ssh-key.png" alt="add ssh key" title="">
 
 点“Add Key”，你就应该看到已经添加的Key：
 
-<img src="../img/in-post/bulid-myblog/ssh-key1.png" alt="add ssh key" title="">
+<img src="/img/in-post/bulid-myblog/ssh-key1.png" alt="add ssh key" title="">
 
 
 ## 配置Jekyll环境
