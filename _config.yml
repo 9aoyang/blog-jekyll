@@ -76,25 +76,22 @@ blogroll: [
     {
         title: "阮一峰",
         href: "http://ruanyifeng.com"
-    }, {
+    },{
         title: "廖雪峰",
         href: "http://www.liaoxuefeng.com/"
-    }, {
+    },{
         title: "余果",
         href: "https://yuguo.us/"
-    }, {
+    },{
         title: "小胡子哥",
         href: "http://www.barretlee.com/entry/" 
-    }
-    }, {
+    },{
         title: "张鑫旭",
         href: "http://www.zhangxinxu.com" 
-    }
-    }, {
+    },{
         title: "Hux",
         href: "https://huangxuan.me/" 
-    }
-    }, {
+    },{
         title: "justjavac(迷渡)",
         href: "http://justjavac.com/" 
     }
