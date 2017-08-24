@@ -13,8 +13,7 @@ tags:
 
 ## 介绍
 ***
-> Vue.js（读音 /vjuː/，类似于 **view**） 是一套构建用户界面的**渐进式框架**。与其他重量级框架不同的是，Vue 采用自底向上增量开发的设计。Vue 的核心库只关注视图层，它不仅易于上手，还便于与第三方库或既有项目整合。另一方面，当与[单文件组件] K
-(https://cn.vuejs.org/v2/guide/single-file-components.html)和 [Vue 生态系统支持的库](https://github.com/vuejs/awesome-vue#libraries--plugins)结合使用时，Vue 也完全能够为复杂的单页应用程序提供驱动。
+> Vue.js（读音 /vjuː/，类似于 **view**） 是一套构建用户界面的**渐进式框架**。与其他重量级框架不同的是，Vue 采用自底向上增量开发的设计。Vue 的核心库只关注视图层，它不仅易于上手，还便于与第三方库或既有项目整合。另一方面，当与[单文件组件](https://cn.vuejs.org/v2/guide/single-file-components.html)和 [Vue 生态系统支持的库](https://github.com/vuejs/awesome-vue#libraries--plugins)结合使用时，Vue 也完全能够为复杂的单页应用程序提供驱动。
 
 Vue是一个[MVVM](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)的框架,特点是**易用**、**灵活**、**高效**
 
@@ -57,7 +56,6 @@ Vue.js 的核心是一个允许采用简洁的模板语法来声明式的将数�
 js能做的，就不会在vue中再次实现，更多的是提升vue的效率
 
 
-
 ## 基础指令介绍
 ***
 
@@ -65,7 +63,7 @@ js能做的，就不会在vue中再次实现，更多的是提升vue的效率
 - v-model
 用于表单
 - v-text
-用于文本渲染，和{{ }}的功能一致，但是后者在Vue未初始化之前会可能会呈现在页面上，所以在渲染页面的过程中更多的去使用v-text.
+用于文本渲染，和双大括号的功能一致，但是后者在Vue未初始化之前会可能会呈现在页面上，所以在渲染页面的过程中更多的去使用v-text.
 - v-show
 用于DOM的显示隐藏（display:none/block/...）
 - v-if
@@ -82,4 +80,3 @@ js能做的，就不会在vue中再次实现，更多的是提升vue的效率
 
 #### 组件Component
 把一个网页拆分成多个组件，每一个独立的组件可以进行复用
-
