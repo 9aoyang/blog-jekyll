@@ -2,7 +2,7 @@
 layout:     post
 title:      "Vue学习笔记"
 subtitle:   "振翼篇（一）"
-date:       2017-03-01 00:00:00 
+date:       2017-08-01 00:00:00 
 author:     "9aoyang"
 header-img: "img/vue.png"
 catalog: true
