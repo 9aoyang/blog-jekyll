@@ -2,7 +2,7 @@
 layout:     post
 title:      "Swift入门（一）"
 subtitle:   "变量和类型"
-date:       2017-06-01 00:00:00 
+date:       2017-09-01 00:00:00 
 author:     "9aoyang"
 header-img: "img/iphone7.jpg"
 catalog: true
