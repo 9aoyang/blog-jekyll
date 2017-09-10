@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "JavaScript编程精解笔记（2）"
-subtitle:   "值、类型和运算符"
+subtitle:   "程序结构"
 date:       2017-06-02 00:00:00 
 author:     "9aoyang"
 header-img: "img/eloquent-javascript.jpg"
