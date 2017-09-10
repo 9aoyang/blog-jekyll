@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "JavaScript编程精解笔记（1）"
+title:      "JavaScript编程精解笔记（2）"
 subtitle:   "值、类型和运算符"
 date:       2017-06-02 00:00:00 
 author:     "9aoyang"
