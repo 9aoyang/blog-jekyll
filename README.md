@@ -1,1 +1,1 @@
-[博客主页](9aoyang.cn)
+[博客主页](9aoyang.me)
