@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "JavaScript编程精解笔记（4）"
+title:      "JavaScript编程精解笔记 (4)"
 subtitle:   "数据结构：对象和数组"
 date:       2017-06-04 00:00:00 
 author:     "9aoyang"

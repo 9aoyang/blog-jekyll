@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "JavaScript编程精解笔记（2）"
+title:      "JavaScript编程精解笔记 (2)"
 subtitle:   "程序结构"
 date:       2017-06-02 00:00:00 
 author:     "9aoyang"
